@@ -1,0 +1,33 @@
+h1{
+    text-align:center;
+    font-family:"Comic Sans MS";
+    color:#DC143C;
+    }
+    div{
+    width:900px;
+    height:420px;
+    background:#f0fff0;
+    border:solid 4px black;
+    line-height:1.5;
+    }
+    img{
+    display:block;
+    width:200px;
+    }
+   
+    p{
+     text-align:left;
+
+    }
+    .tsme{
+   font-family:"Bebas Neue";
+    }
+.burger{
+    font-family: Lobster;
+}
+.grohik{
+    font-family: "Pixelify Sans";
+}
+a{
+    color:greenyellow;
+}
